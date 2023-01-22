@@ -1,0 +1,24 @@
+/* Add basic styles for all devices */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1; /* light gray background color */
+    color: #333; /* dark gray text color */
+  }
+  
+  /* Add accent color */
+  .accent {
+    color: #0077c9; /* shade of blue accent color */
+  }
+  
+  /* Add media queries for larger screens */
+  @media (min-width: 768px) {
+    /* Add styles for larger screens */
+  }
+  
+  /* Add media queries for smaller screens */
+  @media (max-width: 767px) {
+    /* Add styles for smaller screens */
+  }
+  
